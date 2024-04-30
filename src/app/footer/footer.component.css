@@ -1,0 +1,25 @@
+/* .container-fluid{
+    background-color: #453838;
+    height: 200px;
+    position: relative;
+}
+
+h2{
+    text-align: left;
+    color: whitesmoke;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+img{
+    margin: 20px;
+    padding: 7px;
+} */
+
+.mt-5 pt-5 pb-5 footer{
+background-color: #493b3b;
+}
+
+.container-fluid{
+    background-color: #493b3b;
+    color: whitesmoke;
+}
